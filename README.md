@@ -79,3 +79,4 @@ An interactive CapCut-inspired video editor with multi-track timeline, real-time
 | **Ctrl + Z / Cmd + Z** | Undo |
 | **Ctrl + Y / Cmd + Y** | Redo |
 | **Double Click Subtitle** | Open caption text and timestamp editor modal |
+# capgen
